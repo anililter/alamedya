@@ -39,10 +39,6 @@ yarn-error.log*
 skills-lock.json
 alamedya/
 
-# sqlite database (local dev)
-/dev.db
-/prisma/dev.db
-
 # vercel
 .vercel
 
