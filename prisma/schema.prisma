@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
   provider = "sqlite"
-  url      = url = "file:./dev.db"
+  url      = "file:./dev.db"
 }
 
 // Ajans hizmetleri (örn: Web Tasarım, Dijital Pazarlama)
